@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319038459746",
+    "firebase_url": "https://vaani-7d50e.firebaseio.com",
+    "project_id": "vaani-7d50e",
+    "storage_bucket": "vaani-7d50e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319038459746:android:1e9780f3b9d1e54117663b",
+        "android_client_info": {
+          "package_name": "io.vaani.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319038459746-cnusea2tqetp1548ntdht4be4l5m5fmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEeTRCnSJk59eslUuyyB4iratn9wVTqHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319038459746-cnusea2tqetp1548ntdht4be4l5m5fmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
